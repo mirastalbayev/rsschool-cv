@@ -1,2 +1,1 @@
-# rsschool-cv
-https://mirastalbayev.github.io/rsschool-cv/cv
+# <a href="https://mirastalbayev.github.io/rsschool-cv/cv">rsschool-cv</a>
